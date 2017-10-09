@@ -1,0 +1,16 @@
+https://react.semantic-ui.com/modules/modal
+expression syntax in line () => your code
+meteor add fourseven:scss@=3.13.0
+
+things to do
+look at BEM for CSS
+font-size: 62.5%; - 16*62.5 = 10px
+
+viewport - visible area
+
+100vh = 100% of viewport height
+
+look at flexbox
+
+
+type="button" inside form button stops submit
